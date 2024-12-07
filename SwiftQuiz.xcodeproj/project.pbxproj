@@ -27,10 +27,10 @@
 		044726F22D04A7EE0035C002 /* Exceptions for "SwiftQuiz" folder in "SwiftQuizTests" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				CommandLineTerminal.swift,
 				Question.swift,
 				Quiz.swift,
-				Terminal.swift,
+				Terminal/CommandLineTerminal.swift,
+				Terminal/Terminal.swift,
 			);
 			target = 044726E52D04A33E0035C002 /* SwiftQuizTests */;
 		};
