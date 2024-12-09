@@ -36,11 +36,11 @@
 	- C) `Boolean`
 	- D) `Decimal`
 
-7. **How do you handle optional values in Swift?**
-	- A) Using `?` after the type
-	- B) Using `!` after the type
-	- C) Using `@` before the variable name
-	- D) Both A and B
+7. **How can you unwrap an optional in Swift?**
+	-  A) Using `if let` for safe unwrapping
+	-  B) Using `guard let` for safe unwrapping
+	-  C) Using optional chaining
+	-  D) All of the above
 
 8. **What is the purpose of the `return` statement in a function?**
  	- A) To end the function
